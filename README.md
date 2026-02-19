@@ -1,16 +1,19 @@
-## Hi there 👋
+# About Me
 
-<!--
-**CosineX230/CosineX230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-1E3A8A?style=flat-square&logo=python&logoColor=FFE873)
+![Java](https://img.shields.io/badge/Java-E5E5E5?style=flat-square&labelColor=E5E5E5&color=E5E5E5)
+
+
+
+
+
+
+
+
+
+
