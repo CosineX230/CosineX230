@@ -1,4 +1,5 @@
 # About Me
+Hello, I am Isaac, a **Computer Science** and **Mathematics** student at **Baldwin Wallace University** in Ohio.
 
 I am an ambitious computer science and mathematics enthusiast. Mathematics has always been my passion, as logic is the forefront of my ambitions. Through computer science, I can apply the logic of mathematics to solve problems, creating programs, and leave my mark on the world.
 
